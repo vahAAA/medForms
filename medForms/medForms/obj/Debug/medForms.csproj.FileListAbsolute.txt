@@ -1,0 +1,101 @@
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\bin\Debug\medForms.exe.config
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\bin\Debug\medForms.exe
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\bin\Debug\medForms.pdb
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.csprojResolveAssemblyReference.cache
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.f083_0.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.mainForm.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.Properties.Resources.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.csproj.GenerateResource.Cache
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.exe
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.pdb
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.f003_0.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.f003_05.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.f025_8_0.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\obj\Debug\medForms.f026_0.resources
+C:\Users\nrg\Google Диск\Учеба\5й курс\Проект Яковенко\medForms\medForms\bin\Debug\SQLite.NET.dll
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\medForms.exe.config
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.exe
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.pdb
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.csprojResolveAssemblyReference.cache
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f003_0.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f003_05.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f025_8_0.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f026_0.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f083_0.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.mainForm.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.Properties.Resources.resources
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.csproj.GenerateResource.Cache
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\medForms.exe
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\medForms.pdb
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.dll
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.dll
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.xml
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\Линуся\KPI\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\medForms.exe.config
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.exe
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.pdb
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\medForms.exe
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\medForms.pdb
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.dll
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.xml
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.csprojResolveAssemblyReference.cache
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f003_0.resources
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f025_8_0.resources
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f026_0.resources
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.f083_0.resources
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.mainForm.resources
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.Properties.Resources.resources
+C:\Users\VAHA\Desktop\Яковенко\medForms\medForms\medForms\obj\Debug\medForms.csproj.GenerateResource.Cache
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\medForms.exe.config
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.exe
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.pdb
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\medForms.exe
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\medForms.pdb
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\EntityFramework.dll
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\EntityFramework.xml
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.csprojResolveAssemblyReference.cache
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.f003_0.resources
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.f025_8_0.resources
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.f026_0.resources
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.f083_0.resources
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.mainForm.resources
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.Properties.Resources.resources
+C:\Users\mmif__000\Desktop\Важно\medForms\medForms\medForms\obj\Debug\medForms.csproj.GenerateResource.Cache
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\medForms.exe.config
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.exe
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.pdb
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\medForms.exe
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\medForms.pdb
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\EntityFramework.dll
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.dll
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\EntityFramework.xml
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\bin\Debug\System.Data.SQLite.xml
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.csprojResolveAssemblyReference.cache
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.f003_0.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.f025_8_0.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.f026_0.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.f083_0.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.mainForm.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.Properties.Resources.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.QueryForm.resources
+C:\Users\VAHA\Desktop\medForms\medForms\medForms\obj\Debug\medForms.csproj.GenerateResource.Cache
